@@ -1,3 +1,4 @@
+google play store link:- https://play.google.com/store/apps/details?id=com.tariqmonowar.dopamindetox
 # Dopamine Detox mobile App
  
 This is a React Native app that offers a Bangla and English version of the book "Dopamine Detox." The app includes features to help break technology addiction and improve mental clarity for a happier life.
@@ -11,7 +12,11 @@ To use the app, simply navigate through the various screens using the drawer men
 This app was created by Tariq Monowar. Special thanks to the authors of "Dopamine Detox" for providing the content for the app.
 ## Feedback
 We value your feedback and would love to hear from you! If you have any comments, suggestions, or issues regarding the "Dopamin Detox" App, please don't hesitate to reach out to us. You can contact us through any of the following channels
-
+#
+#
+![Untitled-2d](https://github.com/Tariq-Monowar/ReactNative-dopamineDetox-app/assets/101199109/66122efd-e291-499e-9742-7bf94deac44a)
+#
+#
 #### Email: 2003monowar@gmail.com
 #### LinkedIn: https://www.linkedin.com/in/tariq-monowar-hossain-3a7b941bb/
 #### Facebook: https://www.facebook.com/profile.php?id=100080938471859
